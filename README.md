@@ -1,4 +1,6 @@
 # phpLoginSignup
+demo - http://demositeone.esy.es/
+(please dont enter real information in demo site)
 php based login and signup system
 features-
 1. password hashing
